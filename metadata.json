@@ -1,0 +1,7 @@
+{
+  "name": "Gym Balance Pro (editable version)",
+  "description": "A high-performance gymnastics feedback trainer with real-time pose estimation for balance and strength training.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
